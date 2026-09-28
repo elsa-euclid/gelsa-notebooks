@@ -16,7 +16,7 @@ Overview
 Notebooks
 ---------
 
-* [Emission line maps](GELSA_1d_spectra_decontamination.ipynb)
+* [Emission line maps](GELSA_emission_line_map.ipynb)
 * [1D spectral extraction with decontamination](GELSA_1d_spectra_decontamination.ipynb)
   
 Feedback
