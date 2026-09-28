@@ -10,7 +10,7 @@ Overview
 
 **Links**
 * [Documentation](https://elsa-euclid.github.io/gelsa)
-* [Notebooks](https://elsa-euclid.github.io/gelsa-notebooks) (you are here)
+* [Notebooks](https://github.com/elsa-euclid/gelsa-notebooks) (you are here)
 * [Source code](https://github.com/elsa-euclid/gelsa)
 
 Notebooks
