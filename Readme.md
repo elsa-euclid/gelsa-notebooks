@@ -34,6 +34,6 @@ This file is subject to the terms and conditions defined in LICENSE.txt, which f
 Acknowledgements
 ----------------
 
-Please include the acknowledgement for the ELSA project below in all publications.
+If you use GELSA for publications, please include the acknowledgement for the ELSA project below.
 
 "ELSA: Euclid Legacy Science Advanced analysis tools" (Grant Agreement no. 101135203) is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or Innovate UK. Neither the European Union nor the granting authority can be held responsible for them. UK participation is funded through the UK Horizon guarantee scheme under Innovate UK grant 10093177.
