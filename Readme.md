@@ -10,21 +10,15 @@ Overview
 
 **Links**
 * [Documentation](https://elsa-euclid.github.io/gelsa)
-* [Notebooks](https://elsa-euclid.github.io/gelsa-notebooks)
+* [Notebooks](https://elsa-euclid.github.io/gelsa-notebooks) (you are here)
 * [Source code](https://github.com/elsa-euclid/gelsa)
-
-
-Contributors
-------------
-
-Ben Granett (benjamin.granett@inaf.it), Louis Gabarra, Fabio Rigamonti, Francesca Passalacqua, Federico Lepri, Nadir El Ariny.
 
 Notebooks
 ---------
 
-* [GELSA_1d_spectra_decontamination.ipynb] - Emission line maps
-* [GELSA_1d_spectra_decontamination.ipynb] - 1D spectral extraction with decontamination
-
+* [Emission line maps](GELSA_1d_spectra_decontamination.ipynb)
+* [1D spectral extraction with decontamination](GELSA_1d_spectra_decontamination.ipynb)
+  
 Feedback
 --------
 
